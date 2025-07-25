@@ -168,4 +168,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-**Made with ❤️ by [kawacukennedy](https://github.com/kawacukennedy)** 
+**Made with by [kawacukennedy](https://github.com/kawacukennedy)** 
